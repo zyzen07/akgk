@@ -1,0 +1,4 @@
+user = me 
+pass = rdy
+
+submit dat to the dbgi
